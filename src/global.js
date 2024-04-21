@@ -1,2 +1,2 @@
 
-export const backend_API = "http://localhost:4000"
+export const backend_API = "https://imdb-clone-backend-xafu.onrender.com"
